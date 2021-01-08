@@ -1,9 +1,9 @@
-# Periodic-Table-Helper
+# Typing Master Game
 
 ### Technologies:
 
-- Java
-- JavaFX
+- Python
+- PyGame
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## About
 
-> An application designed to help students quickly memorize the periodic table elements and their attributes. The application has a timed quiz section as well as a fun and engaging word search puzzle. The students can go to the review section of the application where they can sort through the different types of elements and learn about their attributes. The time quiz section gives a student exactly three minutes to guess as many correct elements as possible. The element info is given on the screen and the student inputs the corresponding name of the element. The game portion of this applicatoin creates a word search puzzle using 30 random words from the periodic table.
+> This game is designed to make the process of learning how to type for students fun and engaging. Words are displayed on the screen and the objective of the game is to typed the words as fast as possible and doing so will result in points awarded. As more words are typed, the levels get harder and more words are needed to be typed to start the next level. The goal is to type as many words possible and get through as many rounds as you can.
 
 ## Implementation
 
@@ -29,7 +29,7 @@ Techniques Used:
 - Linear Search
 - Linked List
 
-NetBeans and JavaFX was used to create the graphical user interface.
+PyGame was used to create the graphical user interface.
 
 ## Application Running
 
