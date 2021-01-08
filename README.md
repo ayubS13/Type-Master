@@ -33,58 +33,33 @@ PyGame was used to create the graphical user interface.
 
 ## Application Running
 
-#### This is the main screen when the application is opened.
-![MAIN_SCREEN](README-images/mainScreen.PNG)
+#### The game starts with round 1 where only four ships of moderate speed are needed to be typed.
+![MAIN_SCREEN](README-images/startGame.jpg)
 
 ---
 
-#### This is where the student reviews the various elements.
-![MAIN_SCREEN](README-images/overView.PNG)
+#### As more words are typed, the rounds increase as well as the enemy ships speed and their quantity.
+![MAIN_SCREEN](README-images/wordsTypedRound.jpg)
 
 ---
 
-#### The student can sort by different types of elements.
-![MAIN_SCREEN](README-images/sortTypes.PNG)
+#### This following is some gameplay of Type Master.
+![MAIN_SCREEN](README-images/gamePlayVid.gif)
 
 ---
 
-#### The student can sort by elements names, weights, or atomic number.
-![MAIN_SCREEN](README-images/sortingTypes.jpg)
+#### As enemy ships approach closer to the player ship, the danger meter changes the threat level accordingly.
+![MAIN_SCREEN](README-images/dangerHigh.jpg)
 
 ---
 
-#### This is the Quiz page where various information about an element is displayed.
-![MAIN_SCREEN](README-images/quizImage.jpg)
+#### If the enemy ships get too close, the player has the option to press the "ENTER" button which uses an EMP.
+![MAIN_SCREEN](README-images/usingEMPVid.gif)
 
 ---
 
-#### The skip button can be used to skip the current element.
-![MAIN_SCREEN](README-images/skipButton.jpg)
-
----
-
-#### The game over screen displays all the elements that a students gets right or skipped.
-![MAIN_SCREEN](README-images/gameOverImage.jpg)
-
----
-
-#### In the Word Search game, students can find words horizontally.
-![MAIN_SCREEN](README-images/horizontalWords.jpg)
-
----
-
-#### The students can also search for words diagonally.
-![MAIN_SCREEN](README-images/diagonalWords.jpg)
-
----
-
-#### The found words are displayed on the right as well as the words that are still missing.
-![MAIN_SCREEN](README-images/findingWords.jpg)
-
----
-
-#### Pressing the Solve Button displays all the words that are in the Word Puzzle.
-![MAIN_SCREEN](README-images/solvePuzzleVid.gif)
+#### The player starts off with three EMPS and each one is used as the "ENTER" key is pressed.
+![MAIN_SCREEN](README-images/usingEMP.gif)
 
 ---
 
