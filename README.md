@@ -59,7 +59,7 @@ PyGame was used to create the graphical user interface.
 ---
 
 #### The player starts off with three EMPS and each one is used as the "ENTER" key is pressed.
-![MAIN_SCREEN](README-images/usingEMP.gif)
+![MAIN_SCREEN](README-images/usedEMP.jpg)
 
 ---
 
